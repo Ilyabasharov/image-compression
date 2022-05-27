@@ -1,0 +1,10 @@
+torch
+torchvision
+albumentations
+wandb
+opencv-python
+numpy
+einops
+fid_score
+hilbertcurve
+tqdm
